@@ -68,7 +68,7 @@ Our solution:
 
 1. Clone the Repo
    ```
-   git clone https://github.com/<username>/<repo-name>.git
+   git clone https://github.com/PranathiBobbireddi/fir-power-area-optimization.git
    
    
 2. Run the Colab Notebook
